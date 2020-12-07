@@ -1,0 +1,16 @@
+{
+  "name": "bot-stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beads",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^12.4.1",
+    "snekfetch": "^4.0.4"
+  }
+}
